@@ -1,0 +1,3 @@
+This package is intended for generation the configuration for ORM frameworks based on annotations on the Model classes.
+Now supports only the Outlet ORM, later plan on supporting Doctrine.
+As annotation parsing may be an performance issue on production enviroment, it's recommended to use the orm cache tools.
